@@ -1,5 +1,5 @@
 // Requireds  
-
+const { argv } = require('./config/yargs');
 
 const { crearArchivo, listarTabla } = require('./multiplicar/multiplicar');
 
